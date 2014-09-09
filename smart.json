@@ -1,9 +1,0 @@
-{
-  "name"       : "crypto-aes",
-  "description": "AES Package for Crypto.js, standard secure algorithms",
-  "homepage"   : "https://github.com/onepixelsolid/meteor-crypto-aes",
-  "author"     : "Scott Mackenzie <scott@onepixelsolid.com>",
-  "version"    : "0.0.2",
-  "git"        : "https://github.com/onepixelsolid/meteor-crypto-aes.git",
-  "packages"   : {}
-}
