@@ -2,31 +2,31 @@
   "dependencies": [
     [
       "jparker:crypto-base64",
-      "3.1.2"
+      "0.1.0"
     ],
     [
       "jparker:crypto-cipher-core",
-      "3.1.2"
+      "0.1.0"
     ],
     [
       "jparker:crypto-core",
-      "3.1.2"
+      "0.1.0"
     ],
     [
       "jparker:crypto-evpkdf",
-      "3.1.2"
+      "0.1.0"
     ],
     [
       "jparker:crypto-md5",
-      "3.1.2"
+      "0.1.0"
     ],
     [
       "jparker:crypto-mode",
-      "3.1.2"
+      "0.1.0"
     ],
     [
       "jparker:crypto-padding",
-      "3.1.2"
+      "0.1.0"
     ],
     [
       "meteor",

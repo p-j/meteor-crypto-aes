@@ -2,7 +2,12 @@
 
 Dependency
 ----------
+These are automatically installed
 - [`jparker:crypto-core`](https://github.com/p-j/meteor-crypto-core).
+- [`jparker:crypto-cipher-core`](https://github.com/p-j/meteor-crypto-cipher-core).
+- [`jparker:crypto-md5`](https://github.com/p-j/meteor-crypto-md5).
+- [`jparker:crypto-padding`](https://github.com/p-j/meteor-crypto-padding).
+- [`jparker:crypto-mode`](https://github.com/p-j/meteor-crypto-mode).
 
 Install
 -------
@@ -28,9 +33,7 @@ console.log(decrypted.toString(CryptoJS.enc.Utf8));
 
 See also
 --------
-The CryptoJS project lives at <https://code.google.com/p/crypto-js/> and
-the documentation for ciphers, including AES, is at
-<https://code.google.com/p/crypto-js/#Ciphers>.
+The CryptoJS project lives at <https://code.google.com/p/crypto-js/> and the documentation for ciphers, including AES, is at <https://code.google.com/p/crypto-js/#Ciphers>.
 
 
 Related packages
