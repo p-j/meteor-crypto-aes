@@ -1,5 +1,7 @@
 [AES](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard) algorithm from [CryptoJS](https://code.google.com/p/crypto-js/#AES).
 
+[![Build Status](https://travis-ci.org/p-j/meteor-crypto-aes.svg)](https://travis-ci.org/p-j/meteor-crypto-aes)
+
 Dependency
 ----------
 These are automatically installed
